@@ -1,0 +1,14 @@
+Name: Ritchey Get URL Response Codes
+Implementation: 1
+Version: 1
+Long Identifier: Ritchey Get URL Response Codes i1 v1
+Short Identifier: RGURSi1v1
+Description: A user-defined PHP function for getting the HTTP response codes for each URL in a list file.
+History:
+ - Project started July 3, 2024.
+ - Version 1 completed July 3, 2024.
+Author: James Daniel Marrs Ritchey
+Licensing: This project is herby licensed under the Ritchey Permissive License v16.
+Notes:
+ - This project was tested against Mozilla Firefox on Debian 12.
+ - This project relies on PHP's libcurl functions, which you may need to install.

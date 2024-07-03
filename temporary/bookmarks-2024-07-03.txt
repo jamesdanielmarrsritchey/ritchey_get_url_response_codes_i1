@@ -1,0 +1,6 @@
+https://www.wikipedia.org/
+https://www.google.ca/
+http://www.mozilla.org/
+http://www.google.com/404
+https://www.google.com/404
+https://www.google.com/generate_204
